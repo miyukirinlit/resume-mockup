@@ -84,6 +84,10 @@ hr {
     color: #ffffff;
 }
 
+.nav-link-icon {
+    font-size: 80%;
+}
+
 .intro {
     color: rgb(78 95 117 / 70%);
     font-size: 1.425rem;
@@ -151,14 +155,14 @@ footer {
 }
 
 .copyrights {
-    color: #b9c6dc;
+    color: #c8ced9;
     font-size: 14px;
     letter-spacing: .5px;
     margin: 0;
 }
 
 .company {
-    color: #b9c6dc;
+    color: #c8ced9;
     cursor: pointer;
     font-size: 13.5px;
     text-decoration: none;
@@ -166,6 +170,6 @@ footer {
 }
 
 .company:hover {
-    color: #ccd8ee;
+    color: #e0e2e6;
     text-decoration: underline;
 }
